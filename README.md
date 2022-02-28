@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-### I'm Elisey Evseev 
+### I'm Elisey Evseev, currently studying at ITMO.
 
 ![](https://komarev.com/ghpvc/?username=inspired99&color=blueviolet)
 
