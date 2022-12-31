@@ -10,4 +10,4 @@ Links:
 
 [Kaggle](https://www.kaggle.com/xyinspired)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inspired99)](https://github.com/anuraghazra/github-readme-stats)
